@@ -1,0 +1,10 @@
+This tutorial is about Javas built-in logging API
+in the java.util.logging package.
+The tutorial explains how to add logging to your
+Java applications using this API, how to configure it etc.
+It does not cover what you should log, though.
+What information to log is up to you,
+depending on what information you need.
+
+The version of the Java logging API
+covered is the version found in Java 6.
